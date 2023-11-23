@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+   <Document>
+      <name>ZUG</name>
+      <Placemark id="marker_1700733358166">
+         <ExtendedData>
+            <Data name="htmlpopup">
+               <value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/pboqEbHcRmqhu9H6x9gOQQ#marker_1700733358166" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Drawing &amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;/div&gt;&lt;/div&gt;</value>
+            </Data>
+            <Data name="layerId">
+               <value>KML||https://public.geo.admin.ch/api/kml/files/pboqEbHcRmqhu9H6x9gOQQ</value>
+            </Data>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>Walter</name>
+         <description />
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/255,255,0/marker-24@2x.png</href>
+                  <gx:w>48</gx:w>
+                  <gx:h>48</gx:h>
+               </Icon>
+               <hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels" />
+            </IconStyle>
+            <LabelStyle>
+               <color>ff0000ff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.642882902515955,47.12885898271147</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark id="marker_1700733397368">
+         <ExtendedData>
+            <Data name="type">
+               <value>marker</value>
+            </Data>
+         </ExtendedData>
+         <name>Hallo</name>
+         <description />
+         <Style>
+            <IconStyle>
+               <Icon>
+                  <href>https://api3.geo.admin.ch/color/255,145,0/marker-24@2x.png</href>
+                  <gx:w>48</gx:w>
+                  <gx:h>48</gx:h>
+               </Icon>
+               <hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels" />
+            </IconStyle>
+            <LabelStyle>
+               <color>ff0000ff</color>
+            </LabelStyle>
+         </Style>
+         <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>8.58567069912582,47.12558884259993</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
